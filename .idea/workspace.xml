@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="GroupWEBprj:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="748664bb-46c4-4cdb-8c6d-3fd88e02b453" name="Default Changelist" comment="test">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/group.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GroupWEBprj.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hniu/controller/testcontroller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hniu/dao/IGoodInfoDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hniu/dao/IGoodTypeDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hniu/dao/IUserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hniu/daoMethod/Check.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hniu/daoMethod/RegisterUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hniu/daoMethod/getData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hniu/domain/GoodInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hniu/domain/GoodType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hniu/domain/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hniu/mapper/getMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/jdbcConfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GroupWEBprj-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GroupWEBprj-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GroupWEBprj-1.0-SNAPSHOT/WEB-INF/classes/META-INF/GroupWEBprj.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GroupWEBprj-1.0-SNAPSHOT/WEB-INF/classes/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GroupWEBprj-1.0-SNAPSHOT/WEB-INF/classes/com/hniu/controller/testcontroller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GroupWEBprj-1.0-SNAPSHOT/WEB-INF/classes/com/hniu/dao/IUserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GroupWEBprj-1.0-SNAPSHOT/WEB-INF/classes/com/hniu/domain/UserInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GroupWEBprj-1.0-SNAPSHOT/WEB-INF/classes/com/hniu/mapper/getMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GroupWEBprj-1.0-SNAPSHOT/WEB-INF/classes/jdbcConfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GroupWEBprj-1.0-SNAPSHOT/WEB-INF/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GroupWEBprj-1.0-SNAPSHOT/WEB-INF/lib/fastjson-1.2.58.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GroupWEBprj-1.0-SNAPSHOT/WEB-INF/lib/hamcrest-core-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GroupWEBprj-1.0-SNAPSHOT/WEB-INF/lib/junit-4.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GroupWEBprj-1.0-SNAPSHOT/WEB-INF/lib/log4j-1.2.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GroupWEBprj-1.0-SNAPSHOT/WEB-INF/lib/mybatis-3.5.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GroupWEBprj-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-8.0.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GroupWEBprj-1.0-SNAPSHOT/WEB-INF/lib/protobuf-java-2.6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GroupWEBprj-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GroupWEBprj-1.0-SNAPSHOT/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GroupWEBprj-1.0-SNAPSHOT/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GroupWEBprj-1.0-SNAPSHOT/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/GroupWEBprj.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hniu/controller/testcontroller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hniu/dao/IGoodInfoDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hniu/dao/IGoodTypeDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hniu/dao/IUserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hniu/daoMethod/Check.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hniu/daoMethod/RegisterUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hniu/daoMethod/getData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hniu/domain/GoodInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hniu/domain/GoodType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hniu/domain/UserInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hniu/mapper/getMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jdbcConfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="GroupWEBprj" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="true" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\repository" />
+        <option name="mavenHome" value="D:/apache-maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mpEqgcFJ77tW7LFLmf5nb927iv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager" selected="JUnit.getData.testgetindexHtmltest">
+    <configuration name="Check.testLoginChectk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GroupWEBprj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hniu.daoMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hniu.daoMethod" />
+      <option name="MAIN_CLASS_NAME" value="com.hniu.daoMethod.Check" />
+      <option name="METHOD_NAME" value="testLoginChectk" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Check.testloginCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GroupWEBprj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hniu.daoMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hniu.daoMethod" />
+      <option name="MAIN_CLASS_NAME" value="com.hniu.daoMethod.Check" />
+      <option name="METHOD_NAME" value="testloginCheck" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterUser.testregisteruser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GroupWEBprj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hniu.daoMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hniu.daoMethod" />
+      <option name="MAIN_CLASS_NAME" value="com.hniu.daoMethod.RegisterUser" />
+      <option name="METHOD_NAME" value="testregisteruser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="getData.testgetindexHtmltest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GroupWEBprj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hniu.daoMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hniu.daoMethod" />
+      <option name="MAIN_CLASS_NAME" value="com.hniu.daoMethod.getData" />
+      <option name="METHOD_NAME" value="testgetindexHtmltest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.40" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.40" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="GroupWEBprj:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/GroupWEBprj" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_40_GroupWEBprj" />
+        <option name="HTTP_PORT" value="1010" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52132" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="GroupWEBprj:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.40" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:1010/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_GroupWEBprj" />
+        <option name="HTTP_PORT" value="1010" />
+        <option name="HTTPS_PORT" value="1010" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52132" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.getData.testgetindexHtmltest" />
+        <item itemvalue="JUnit.RegisterUser.testregisteruser" />
+        <item itemvalue="JUnit.Check.testLoginChectk" />
+        <item itemvalue="JUnit.Check.testloginCheck" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.21286473" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="748664bb-46c4-4cdb-8c6d-3fd88e02b453" name="Default Changelist" comment="" />
+      <created>1610182326643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610182326643</updated>
+      <workItem from="1610182331515" duration="7013000" />
+      <workItem from="1610189452414" duration="3552000" />
+      <workItem from="1610193137759" duration="24640000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="205" key="#BuildArtifactsBeforeRunChooser" timestamp="1610189326879">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="555" y="205" key="#BuildArtifactsBeforeRunChooser/0.0.1536.824@0.0.1536.824" timestamp="1610189326879" />
+    <state x="368" y="59" key="#Chrome_Settings" timestamp="1610186708809">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="368" y="59" key="#Chrome_Settings/0.0.1536.824@0.0.1536.824" timestamp="1610186708809" />
+    <state x="361" y="71" key="#Project_Structure" timestamp="1610188844592">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1610188844592" />
+    <state x="449" y="31" width="651" height="737" key="#Tomcat" timestamp="1610187811269">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="31" width="651" height="737" key="#Tomcat/0.0.1536.824@0.0.1536.824" timestamp="1610187811269" />
+    <state x="752" y="29" width="651" height="795" key="#Tomcat_9.0.40" timestamp="1610193457761">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="752" y="29" width="651" height="795" key="#Tomcat_9.0.40/0.0.1536.824@0.0.1536.824" timestamp="1610193457761" />
+    <state x="360" y="71" key="#Tomcat_Server" timestamp="1610184802151">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="360" y="71" key="#Tomcat_Server/0.0.1536.824@0.0.1536.824" timestamp="1610184802151" />
+    <state x="368" y="59" key="#Web_Browsers" timestamp="1610186716081">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="368" y="59" key="#Web_Browsers/0.0.1536.824@0.0.1536.824" timestamp="1610186716081" />
+    <state x="73" y="96" width="1089" height="720" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610188231580">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="73" y="96" width="1089" height="720" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1610188231580" />
+    <state x="574" y="43" key="#com.intellij.ide.util.MemberChooser" timestamp="1610276578337">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="43" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1610276578337" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610184449361">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1610184449361" />
+    <state x="245" y="0" key="CommitChangelistDialog2" timestamp="1610294080375">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="245" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1610294080375" />
+    <state x="382" y="189" key="FileChooserDialogImpl" timestamp="1610293906479">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="382" y="189" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1610293906479" />
+    <state width="1537" height="319" key="GridCell.Tab.0.bottom" timestamp="1610278024745">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="319" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610278024745" />
+    <state width="1537" height="319" key="GridCell.Tab.0.center" timestamp="1610278024745">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="319" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610278024745" />
+    <state width="1537" height="319" key="GridCell.Tab.0.left" timestamp="1610278024745">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="319" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610278024745" />
+    <state width="1537" height="319" key="GridCell.Tab.0.right" timestamp="1610278024745">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="319" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610278024745" />
+    <state width="1181" height="172" key="GridCell.Tab.1.bottom" timestamp="1610260825005">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1181" height="172" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610260825005" />
+    <state width="1181" height="172" key="GridCell.Tab.1.center" timestamp="1610260825005">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1181" height="172" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1610260825005" />
+    <state width="1181" height="172" key="GridCell.Tab.1.left" timestamp="1610260825005">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1181" height="172" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1610260825005" />
+    <state width="1181" height="172" key="GridCell.Tab.1.right" timestamp="1610260825005">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1181" height="172" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1610260825005" />
+    <state width="1181" height="172" key="GridCell.Tab.2.bottom" timestamp="1610260825006">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1181" height="172" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610260825006" />
+    <state width="1181" height="172" key="GridCell.Tab.2.center" timestamp="1610260825005">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1181" height="172" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1610260825005" />
+    <state width="1181" height="172" key="GridCell.Tab.2.left" timestamp="1610260825005">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1181" height="172" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1610260825005" />
+    <state width="1181" height="172" key="GridCell.Tab.2.right" timestamp="1610260825006">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1181" height="172" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1610260825006" />
+    <state width="1186" height="217" key="GridCell.Tab.3.bottom" timestamp="1610194366273">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1186" height="217" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610194366273" />
+    <state width="1186" height="217" key="GridCell.Tab.3.center" timestamp="1610194366273">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1186" height="217" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1610194366273" />
+    <state width="1186" height="217" key="GridCell.Tab.3.left" timestamp="1610194366273">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1186" height="217" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1610194366273" />
+    <state width="1186" height="217" key="GridCell.Tab.3.right" timestamp="1610194366273">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1186" height="217" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1610194366273" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1610285155459">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1610285155459" />
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1610193142346">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1610193142346" />
+    <state x="339" y="58" key="com.intellij.javaee.view.ServerArtifactsDialog" timestamp="1610189352341">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="339" y="58" key="com.intellij.javaee.view.ServerArtifactsDialog/0.0.1536.824@0.0.1536.824" timestamp="1610189352341" />
+    <state x="341" y="183" key="run.anything.popup" timestamp="1610274967233">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="341" y="183" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1610274967233" />
+    <state x="561" y="155" key="svn.repositoryBrowser" timestamp="1610293888940">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="561" y="155" key="svn.repositoryBrowser/0.0.1536.824@0.0.1536.824" timestamp="1610293888940" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/GroupWEBprj$Tomcat.ic" NAME="Tomcat Coverage Results" MODIFIED="1610186446052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
