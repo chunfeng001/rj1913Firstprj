@@ -17,6 +17,33 @@ public class GoodInfo implements Serializable {
     private  String gdImage;
     private  String gdInfo;
     private  Date gdAddTime;
+    private  String gdColor;
+    private  String gdMemoryType;
+    private String gdImagemini;
+
+    public String getGdImagemini() {
+        return gdImagemini;
+    }
+
+    public void setGdImagemini(String gdImagemini) {
+        this.gdImagemini = gdImagemini;
+    }
+
+    public String getGdColor() {
+        return gdColor;
+    }
+
+    public String getGdMemoryType() {
+        return gdMemoryType;
+    }
+
+    public void setGdColor(String gdColor) {
+        this.gdColor = gdColor;
+    }
+
+    public void setGdMemoryType(String gdMemoryType) {
+        this.gdMemoryType = gdMemoryType;
+    }
 
     public Integer gettID() {
         return tID;
@@ -120,6 +147,9 @@ public class GoodInfo implements Serializable {
                 ", gdImage='" + gdImage + '\'' +
                 ", gdInfo='" + gdInfo + '\'' +
                 ", gdAddTime=" + gdAddTime +
+                ", gdColor='" + gdColor + '\'' +
+                ", gdMemoryType='" + gdMemoryType + '\'' +
+                ", gdImagemini='" + gdImagemini + '\'' +
                 '}';
     }
 }

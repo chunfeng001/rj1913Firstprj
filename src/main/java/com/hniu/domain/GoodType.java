@@ -1,10 +1,20 @@
 package com.hniu.domain;
 
 import java.io.Serializable;
+import java.util.List;
 
 public class GoodType implements Serializable {
     private  Integer tID;
     private  String tName;
+   private List<GoodInfo> goodinfos;
+
+    public List<GoodInfo> getGoodinfos() {
+        return goodinfos;
+    }
+
+    public void setGoodinfos(List<GoodInfo> goodinfos) {
+        this.goodinfos = goodinfos;
+    }
 
     public Integer gettID() {
         return tID;
@@ -27,6 +37,7 @@ public class GoodType implements Serializable {
         return "GoodType{" +
                 "tID=" + tID +
                 ", tName='" + tName + '\'' +
+                ", goodinfos=" + goodinfos +
                 '}';
     }
 }

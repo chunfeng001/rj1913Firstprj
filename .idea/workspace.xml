@@ -8,12 +8,36 @@
   <component name="ChangeListManager">
     <list default="true" id="748664bb-46c4-4cdb-8c6d-3fd88e02b453" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hniu/dao/IGoodInfoDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hniu/dao/IGoodInfoDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hniu/dao/IGoodTypeDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hniu/dao/IGoodTypeDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hniu/dao/IUserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hniu/dao/IUserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hniu/daoMethod/getData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hniu/daoMethod/getData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hniu/domain/GoodInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hniu/domain/GoodInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hniu/domain/GoodType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hniu/domain/GoodType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hniu/mapper/getMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hniu/mapper/getMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GroupWEBprj-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/GroupWEBprj-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GroupWEBprj-1.0-SNAPSHOT/WEB-INF/classes/com/hniu/dao/IUserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/GroupWEBprj-1.0-SNAPSHOT/WEB-INF/classes/com/hniu/dao/IUserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GroupWEBprj-1.0-SNAPSHOT/WEB-INF/classes/com/hniu/mapper/getMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/GroupWEBprj-1.0-SNAPSHOT/WEB-INF/classes/com/hniu/mapper/getMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GroupWEBprj-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/GroupWEBprj-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GroupWEBprj-1.0-SNAPSHOT/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/GroupWEBprj-1.0-SNAPSHOT/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hniu/dao/IGoodInfoDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hniu/dao/IGoodInfoDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hniu/dao/IGoodTypeDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hniu/dao/IGoodTypeDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hniu/dao/IUserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hniu/dao/IUserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hniu/daoMethod/getData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hniu/daoMethod/getData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hniu/domain/GoodInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hniu/domain/GoodInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hniu/domain/GoodType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hniu/domain/GoodType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hniu/mapper/getMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hniu/mapper/getMapper.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="27" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -30,20 +54,113 @@
     <select />
   </component>
   <component name="FavoritesManager">
-    <favorites_list name="GroupWEBprj" />
+    <favorites_list name="GroupWEBprj">
+      <favorite_root url="file://$PROJECT_DIR$/src/main/webapp" module="GroupWEBprj" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/js" module="GroupWEBprj" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/js/jquery.min.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/css" module="GroupWEBprj" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/css/login.css" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/css/style.css" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image" module="GroupWEBprj" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/ghs.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/timg.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/5c_80.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/banner.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/hjh_01.gif" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/hjh_02.gif" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/hjh_03.gif" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/hjh_04.gif" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/hjh_05.gif" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/hjh_06.gif" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/hm4-80.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/MIX-80.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/xm5-80.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/xm6_80.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/yyymix.gif" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/banner2.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/compare.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/hm4A-80.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/hm4x_80.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/hmn4x80.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/pinpai1.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/pinpai2.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/pinpai3.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/pinpai4.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/pinpai5.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/success.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/xiaomi5.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/xm5S-80.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/hongmi4x.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/hongmin4.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/login_bg.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/logo_top.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/mimobile.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/peijian1.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/peijian2.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/peijian3.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/peijian4.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/peijian5.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/peijian6.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/peijian7.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/peijian8.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/peijian9.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/xm5Splus.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/logo_foot.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/peijian10.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/cart-empty.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/hmnote4-80.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/xmNOTE2-80.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/yanzhengma.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/gwc_xiaomi6.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/pinghengche.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/mistore_logo.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/liulangengduo.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/liebiao_xiaomi5.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/liebiao_xiaomi6.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/liebiao_hongmin4.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/liebiao_xiaomi5c.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/liebiao_xiaomi5s.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/liebiao_hongmin42.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/liebiao_hongmin4x.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/liebiao_xiaomimix.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/liebiao_xiaomint2.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/liebiao_hongmin4_dd.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/pms_1547020972.223707.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/pms_1531878231.4339834.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/pms_1547020900.2384643.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/pms_1531878001.22998509.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/pms_1531878148.12071712.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/pms_1531878216.04982543.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/pms_1531904124.43417445.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/pms_1547020988.40043705.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/pms_1553857517.69717235.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/pms_1563325775.88248262.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/image/xmad_14926862610682_UhkfS.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF" module="GroupWEBprj" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/index.jsp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/test.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      </favorite_root>
+    </favorites_list>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="Class" />
+        <option value="Jsp File" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -82,6 +199,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -92,7 +210,12 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="JUnit.getData.testgetindexHtmltest">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\GroupWEBprj\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.40">
     <configuration name="Check.testLoginChectk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GroupWEBprj" />
       <extension name="coverage">
@@ -320,7 +443,7 @@
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
             </expand>
             <select />
@@ -341,7 +464,9 @@
       <updated>1610182326643</updated>
       <workItem from="1610182331515" duration="7013000" />
       <workItem from="1610189452414" duration="3552000" />
-      <workItem from="1610193137759" duration="25065000" />
+      <workItem from="1610193137759" duration="69949000" />
+      <workItem from="1610704657363" duration="51404000" />
+      <workItem from="1611028513582" duration="35310000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1610294181232</created>
@@ -350,7 +475,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610294181232</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <created>1610294536494</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610294536494</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -393,94 +525,98 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="73" y="96" width="1089" height="720" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1610188231580" />
-    <state x="574" y="43" key="#com.intellij.ide.util.MemberChooser" timestamp="1610276578337">
+    <state x="574" y="43" key="#com.intellij.ide.util.MemberChooser" timestamp="1611053124795">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="43" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1610276578337" />
+    <state x="574" y="43" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1611053124795" />
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610184449361">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1610184449361" />
-    <state x="245" y="0" key="CommitChangelistDialog2" timestamp="1610294177515">
+    <state x="245" y="0" key="CommitChangelistDialog2" timestamp="1610294534447">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="245" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1610294177515" />
+    <state x="245" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1610294534447" />
     <state x="382" y="189" key="FileChooserDialogImpl" timestamp="1610293906479">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="382" y="189" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1610293906479" />
-    <state width="1537" height="319" key="GridCell.Tab.0.bottom" timestamp="1610278024745">
+    <state width="1180" height="80" key="GridCell.Tab.0.bottom" timestamp="1611071678769">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="319" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610278024745" />
-    <state width="1537" height="319" key="GridCell.Tab.0.center" timestamp="1610278024745">
+    <state width="1180" height="80" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611071678769" />
+    <state width="1180" height="80" key="GridCell.Tab.0.center" timestamp="1611071678769">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="319" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610278024745" />
-    <state width="1537" height="319" key="GridCell.Tab.0.left" timestamp="1610278024745">
+    <state width="1180" height="80" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1611071678769" />
+    <state width="1180" height="80" key="GridCell.Tab.0.left" timestamp="1611071678769">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="319" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610278024745" />
-    <state width="1537" height="319" key="GridCell.Tab.0.right" timestamp="1610278024745">
+    <state width="1180" height="80" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1611071678769" />
+    <state width="1180" height="80" key="GridCell.Tab.0.right" timestamp="1611071678769">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="319" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610278024745" />
-    <state width="1181" height="172" key="GridCell.Tab.1.bottom" timestamp="1610260825005">
+    <state width="1180" height="80" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1611071678769" />
+    <state width="1180" height="80" key="GridCell.Tab.1.bottom" timestamp="1611071678773">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1181" height="172" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610260825005" />
-    <state width="1181" height="172" key="GridCell.Tab.1.center" timestamp="1610260825005">
+    <state width="1180" height="80" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611071678773" />
+    <state width="1180" height="80" key="GridCell.Tab.1.center" timestamp="1611071678771">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1181" height="172" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1610260825005" />
-    <state width="1181" height="172" key="GridCell.Tab.1.left" timestamp="1610260825005">
+    <state width="1180" height="80" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1611071678771" />
+    <state width="1180" height="80" key="GridCell.Tab.1.left" timestamp="1611071678770">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1181" height="172" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1610260825005" />
-    <state width="1181" height="172" key="GridCell.Tab.1.right" timestamp="1610260825005">
+    <state width="1180" height="80" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1611071678770" />
+    <state width="1180" height="80" key="GridCell.Tab.1.right" timestamp="1611071678772">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1181" height="172" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1610260825005" />
-    <state width="1181" height="172" key="GridCell.Tab.2.bottom" timestamp="1610260825006">
+    <state width="1180" height="80" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1611071678772" />
+    <state width="1180" height="80" key="GridCell.Tab.2.bottom" timestamp="1611071678417">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1181" height="172" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610260825006" />
-    <state width="1181" height="172" key="GridCell.Tab.2.center" timestamp="1610260825005">
+    <state width="1180" height="80" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611071678417" />
+    <state width="1180" height="80" key="GridCell.Tab.2.center" timestamp="1611071678416">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1181" height="172" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1610260825005" />
-    <state width="1181" height="172" key="GridCell.Tab.2.left" timestamp="1610260825005">
+    <state width="1180" height="80" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1611071678416" />
+    <state width="1180" height="80" key="GridCell.Tab.2.left" timestamp="1611071678416">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1181" height="172" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1610260825005" />
-    <state width="1181" height="172" key="GridCell.Tab.2.right" timestamp="1610260825006">
+    <state width="1180" height="80" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1611071678416" />
+    <state width="1180" height="80" key="GridCell.Tab.2.right" timestamp="1611071678417">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1181" height="172" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1610260825006" />
-    <state width="1186" height="217" key="GridCell.Tab.3.bottom" timestamp="1610194366273">
+    <state width="1180" height="80" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1611071678417" />
+    <state width="1180" height="80" key="GridCell.Tab.3.bottom" timestamp="1611071678418">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1186" height="217" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610194366273" />
-    <state width="1186" height="217" key="GridCell.Tab.3.center" timestamp="1610194366273">
+    <state width="1180" height="80" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611071678418" />
+    <state width="1180" height="80" key="GridCell.Tab.3.center" timestamp="1611071678417">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1186" height="217" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1610194366273" />
-    <state width="1186" height="217" key="GridCell.Tab.3.left" timestamp="1610194366273">
+    <state width="1180" height="80" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1611071678417" />
+    <state width="1180" height="80" key="GridCell.Tab.3.left" timestamp="1611071678417">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1186" height="217" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1610194366273" />
-    <state width="1186" height="217" key="GridCell.Tab.3.right" timestamp="1610194366273">
+    <state width="1180" height="80" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1611071678417" />
+    <state width="1180" height="80" key="GridCell.Tab.3.right" timestamp="1611071678417">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1186" height="217" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1610194366273" />
+    <state width="1180" height="80" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1611071678417" />
+    <state x="288" y="43" key="NewModule_or_Project.wizard" timestamp="1610296399836">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="288" y="43" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1610296399836" />
     <state x="270" y="0" key="SettingsEditor" timestamp="1610285155459">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1610285155459" />
-    <state x="261" y="66" key="Vcs.Push.Dialog.v2" timestamp="1610294276198">
+    <state x="261" y="66" key="Vcs.Push.Dialog.v2" timestamp="1610294569083">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="261" y="66" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1610294276198" />
+    <state x="261" y="66" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1610294569083" />
     <state x="449" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1610193142346">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -489,10 +625,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="339" y="58" key="com.intellij.javaee.view.ServerArtifactsDialog/0.0.1536.824@0.0.1536.824" timestamp="1610189352341" />
-    <state x="341" y="183" key="run.anything.popup" timestamp="1610274967233">
+    <state x="503" y="310" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610294582999">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="341" y="183" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1610274967233" />
+    <state x="503" y="310" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1610294582999" />
+    <state x="436" y="117" width="663" height="604" key="extract.method.dialog" timestamp="1610890105484">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="436" y="117" width="663" height="604" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1610890105484" />
+    <state x="341" y="183" key="run.anything.popup" timestamp="1611063944461">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="341" y="183" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1611063944461" />
+    <state x="341" y="0" width="840" height="822" key="search.everywhere.popup" timestamp="1610767441238">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="341" y="0" width="840" height="822" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1610767441238" />
     <state x="561" y="155" key="svn.repositoryBrowser" timestamp="1610293888940">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -500,5 +648,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/GroupWEBprj$Tomcat.ic" NAME="Tomcat Coverage Results" MODIFIED="1610186446052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/GroupWEBprj$Tomcat_9_0_40.ic" NAME="Tomcat 9.0.40 Coverage Results" MODIFIED="1610798951756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

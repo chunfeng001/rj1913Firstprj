@@ -1,6 +1,8 @@
 package com.hniu.mapper;
 
 import com.hniu.dao.IGoodInfoDao;
+import com.hniu.dao.IGoodTypeDao;
+import com.hniu.dao.IScarInfoDao;
 import com.hniu.dao.IUserDao;
 import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.SqlSession;
@@ -37,5 +39,15 @@ public class getMapper {
         session  = mapper.getSession();
         IGoodInfoDao Igoodinfodao=session.getMapper(IGoodInfoDao.class);
         return  Igoodinfodao;
+    }
+    public IScarInfoDao getProxyIScarInfoDao(getMapper mapper) throws Exception{
+        session  = mapper.getSession();
+        IScarInfoDao Iscarinfodao=session.getMapper(IScarInfoDao.class);
+        return  Iscarinfodao;
+    }
+    public IGoodTypeDao getProxyIGoodTypeDao(getMapper mapper) throws Exception{
+        session  = mapper.getSession();
+        IGoodTypeDao Igoodtypeinfodao=session.getMapper(IGoodTypeDao.class);
+        return  Igoodtypeinfodao;
     }
 }

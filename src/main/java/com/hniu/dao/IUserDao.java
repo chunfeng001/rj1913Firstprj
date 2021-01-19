@@ -19,4 +19,7 @@ public interface IUserDao {
      //注册账号
      @Insert("insert into userinfo(`uID`,`uName`,`uPwd`,`uSex`,`uBirthday`,`uPhone`,`uEmail`,`uQQ`,`uAddress`) values(default,#{uName},#{uPwd},#{uSex},#{uBirthday},#{uPhone},#{uEmail},#{uQQ},#{uAddress})")
      boolean registerByUser(UserInfo user);
+     //根据用户名查找user
+     @Select("select *from userinfo where uName=#{username}")
+     UserInfo selectUserByName(String username);
 }
